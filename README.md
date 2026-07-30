@@ -1,5 +1,5 @@
 # 💫 About Me:
-Java Backend Development at Sportstech Brand Holding GmbH, building scalable APIs and microservices using Spring Boot.<br>Backend Development projects, Microservices Architecture, REST APIs, and Performance Optimization.<br>Advanced System Design, Cloud Deployment, and DevOps Automation (CI/CD, Docker).<br>Spring Security (JWT), Kafka, Microservices Patterns, and DevOps Tools.<br>Java, Spring Boot, REST APIs, Backend Architecture, SQL, Git, and API Optimization.<br>I love optimizing backend code to make systems faster and more scalable 🚀
+DevOps Engineer at Sportstech Brand Holding GmbH, building scalable APIs and microservices using Spring Boot.<br>Backend Development projects, Microservices Architecture, REST APIs, and Performance Optimization.<br>Advanced System Design, Cloud Deployment, and DevOps Automation (CI/CD, Docker).<br>Spring Security (JWT), Kafka, Microservices Patterns, and DevOps Tools.<br>Java, Spring Boot, REST APIs, Backend Architecture, SQL, Git, and API Optimization.<br>I love optimizing backend code to make systems faster and more scalable 🚀
 
 
 ## 🌐 Socials:
